@@ -1,0 +1,15 @@
+{
+  "name": "montaneros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "yarn install ./montaneros-blog && yarn install ./montaneros-cms",
+    "start": "yarn start ./montaneros-blog && yarn start ./montaneros-cms",
+    "build": "yarn build ./montaneros-blog && yarn build ./montaneros-cms",
+    "dev": "yarn dev ./montaneros-blog && yarn dev ./montaneros-cms"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

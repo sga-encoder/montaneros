@@ -1,0 +1,6 @@
+[submodule "montaneros-cms"]
+	path = montaneros-cms
+	url = https://github.com/sga-encoder/montaneros-cms.git
+[submodule "montaneros-blog"]
+	path = montaneros-blog
+	url = https://github.com/sga-encoder/montaneros-blog.git
